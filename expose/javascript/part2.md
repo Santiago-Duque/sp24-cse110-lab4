@@ -14,3 +14,4 @@
 14. A. true because '2' is converted into the number 2, and 2 is greater than 1, B. false because in comparing the strings lexicographically, '2' > '1' in '12', so '2' !< '12', C. true because '2' is converted into the number 2, and 2 = 2, D. false because === checks equality without type conversion, and the number 2 is not equal to the string '2', E. false because true because 1, and 1 is not equal to 2, F. true because Boolean(2) outputs true, and true === true.
 15. == will convert the values on both sides to a common type and then check for equality, whereas === strictly checks if the values are equal with the same type.
 17.[2,4,6] because each element in the array is passed through the doSomething function which multiplies each element by 2, and then each multiplied element is pushed into the newArr.
+19. 1 4 3 2  
