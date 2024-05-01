@@ -1,1 +1,5 @@
-
+1. Asynchronous nature: Code becomes complicated to read/maintain between developers. Loose typing: issues could arise between javascript's type conversions, causing some debugging issues. Web platform: There could be security issues + good understanding of html/css likely required.  
+2. I feel like developers made it so Javascript is loosely type to provide as much simplicity as possible in creating the scripts. Also, asynchronous features allow a developer to create server-side edits without affecting client-side interface which is helpful to see how a website can be improved.  
+3. Javascript is an interpreted language, meaning it's interpreted at runtime in the client browser. This is opposed to a compiled language such as java, which must be compiled before it's ran.  
+4. Focusing/mastering vanilla JS will help to deeply understand the fundamentals of javascript, which will help us to easily transition into learning other javascript contents in the future.  
+5. I believe this lab helped me to understand a lot of javascript content which we can expect to encounter in working on the final project.  
